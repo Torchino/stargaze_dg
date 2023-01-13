@@ -3,6 +3,8 @@ run:
   # timeout for analysis, e.g. 30s, 5m, default is 1m
   timeout: 5m
 
+#this is true
+
 linters:
   disable-all: true
   enable:
